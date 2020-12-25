@@ -1,4 +1,4 @@
-## Dockerized Express-Mongo Application
+## Boiler Plate for Dockerized Express-Mongo Application
 
 Basic Express-Mongo application with the minimum Docker file settings
 
